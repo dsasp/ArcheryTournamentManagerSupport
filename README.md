@@ -12,4 +12,4 @@ Bogensport Turnier Manager ist ein Programm zur Verwaltung von Bogensport Turnie
 
 Das Programm läuft auf MacOS Geräten (Intel und Apple Prozessoren). Benötigt wird MacOS 13.5 oder neuer.
 
-[Online Dokumentation](https://github.com/dsasp/Easy3DScoreSupport/wiki/Dokumentation-Deutsch)
+[Online Dokumentation](https://github.com/dsasp/ArcheryTournamentManagerSupport/wiki/Dokumentation%E2%80%90Deutsch)
