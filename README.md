@@ -9,7 +9,7 @@ The app runs on MacOS devices (x64 and Apple Processor). Requires MacOS 13.5 or 
 
 The app is available from the Apple App Store at 
 
-[Archery Tournament Manager](https://apps.apple.com/us/app/archery-tournament-manager/id6741187426?mt=12)
+[Archery Tournament Manager](https://apps.apple.com/us/app/archery-tournament-manager/id6741187426)
 
 ### Privacy Information
 
@@ -26,7 +26,7 @@ Das Programm läuft auf MacOS Geräten (x64 und Apple Prozessoren). Benötigt wi
 
 Das Programm gibt es im Apple App Store
 
-[Bogensport Turnier Manager](https://apps.apple.com/de/app/bogensport-turnier-manager/id6741187426?mt=12)
+[Bogensport Turnier Manager](https://apps.apple.com/de/app/bogensport-turnier-manager/id6741187426)
 
 
 
