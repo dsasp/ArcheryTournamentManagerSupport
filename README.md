@@ -7,6 +7,10 @@ The app runs on MacOS devices (x64 and Apple Processor). Requires MacOS 13.5 or 
 
 [Online documentation](https://github.com/dsasp/ArcheryTournamentManagerSupport/wiki/Documentation%E2%80%90English)
 
+### App Store
+
+[Get app from App Store](https://apps.apple.com/us/app/archery-tournament-manager/id6741187426?mt=12)
+
 ### Privacy Information
 
 All data is stored locally on the device. Removing the app does erase all user data. There is no automated transfer of data to other devices. The app can be used offline w/o any restrictions, but In-App-Purchase and access to documentation do require internet access.
